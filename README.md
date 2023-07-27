@@ -3,9 +3,7 @@
 This repository contains two Python scripts that automate the process of navigating to a list of Shopify stores, extracting their information, and finding and opening contact forms on their websites. I personally used it to contact many more stores per hour than I could have without it. It requires you to fill out and submit the forms manually, but it automatically loads the pages one after another making the process much faster. 
 
 **Features**
-**Automated Navigation to Shopify Stores**: The first script automatically navigates to a list of Shopify stores.
-
-**Shopify Store Information Extraction**: The first script extracts the URLs of the Shopify stores and writes them to a CSV file.
+**Automated Shopify Store Information Extraction**: The  script automatically navigates to a list of Shopify stores(Found by using this website to find all stores hosted by Shopify: [https://myip.ms](https://myip.ms/browse/sites/1/ownerID/376714/ownerIDii/)) and extracts the URLs of the Shopify stores and writes them to a CSV file.
 
 **Contact Form Detection**: The second script navigates to each Shopify store, locates the contact page, and fills out the contact form with predefined data.
 
