@@ -1,15 +1,15 @@
 **Shopify Store Information and Contact Form Automator**
 
-This repository contains two Python scripts that automate the process of navigating to a list of Shopify stores, extracting their information, and auto-filling their contact forms.
+This repository contains two Python scripts that automate the process of navigating to a list of Shopify stores, extracting their information, and finding and opening contact forms on their websites. I personally used it to contact many more stores per hour than I could have without it. It requires you to fill out and submit the forms manually, but it automatically loads the pages one after another making the process much faster. 
 
 **Features**
-Automated Navigation to Shopify Stores: The first script automatically navigates to a list of Shopify stores.
+**Automated Navigation to Shopify Stores**: The first script automatically navigates to a list of Shopify stores.
 
-Shopify Store Information Extraction: The first script extracts the URLs of the Shopify stores and writes them to a CSV file.
+**Shopify Store Information Extraction**: The first script extracts the URLs of the Shopify stores and writes them to a CSV file.
 
-Contact Form Detection: The second script navigates to each Shopify store, locates the contact page, and fills out the contact form with predefined data.
+**Contact Form Detection**: The second script navigates to each Shopify store, locates the contact page, and fills out the contact form with predefined data.
 
-Resilience to CAPTCHA and Errors: Both scripts are resilient to CAPTCHAs and page load errors. If a CAPTCHA is detected, a sound will be played, and the script will wait for the user to manually complete the CAPTCHA.
+**Resilience to CAPTCHA and Errors**: Both scripts are resilient to CAPTCHAs and page load errors. If a CAPTCHA is detected, a sound will be played, and the script will wait for the user to manually complete the CAPTCHA.
 
 **Technologies Used**
 Python
