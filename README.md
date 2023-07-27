@@ -12,6 +12,7 @@ This repository contains two Python scripts that automate the process of navigat
 **Resilience to CAPTCHA and Errors**: Both scripts are resilient to CAPTCHAs and page load errors. If a CAPTCHA is detected, a sound will be played, and the script will wait for the user to manually complete the CAPTCHA.
 
 **Technologies Used**
+
 Python
 Selenium WebDriver
 BeautifulSoup4
@@ -19,6 +20,7 @@ Tkinter
 CSV
 
 **Getting Started**
+
 Ensure you have Python and pip installed on your machine.
 
 Clone the repository:
