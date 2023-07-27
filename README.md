@@ -29,7 +29,9 @@ Install the required Python packages:
 pip install -r requirements.txt
 
 Run script1.py to start the Shopify store navigation and information extraction process.
+
 **Usage**
+
 In script1.py, specify the range of pages to scrape in the line for page_number in range(300, 5000).
 
 Run script1.py. The script will navigate to each page of a Shopify store list website, attempt to locate a table of Shopify store URLs, and save these URLs to a csv.
@@ -39,8 +41,10 @@ Run script2.py. The script will read the URLs from the csv, navigate to each Sho
 Note: During both scripts, if a CAPTCHA or an error is encountered, a beep sound will be played and the script will pause until you manually resolve the issue and press the "Continue to next website" button.
 
 **Contributing**
+
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 **Contact**
+
 Feel free to reach out if you have any questions or if you want to discuss this project further.
 
