@@ -1,7 +1,6 @@
 # Shopify Store Information and Contact Form Automator
 
-
-This repository contains Python scripts that automate the process of navigating to a list of Shopify stores, extracting their information, and finding and opening contact forms on their websites. It saves time by auto-loading the pages while requiring manual form submission.
+Shopify Contact Form Automator is a time-saving Python automation tool for e-commerce business owners or anyone who needs to contact Shopify stores en masse. It navigates through a list of Shopify stores, extracts their information, locates their contact forms, and loads the pages one by one for you. This automation leaves you with just the task of submitting the forms or completing the captcha. A beeping sound  plays every time manual input is required.
 
 ## Table Of Contents
 
