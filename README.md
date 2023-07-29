@@ -13,9 +13,13 @@ This repository contains two Python scripts that automate the process of navigat
 **Technologies Used**
 
 Python
+
 Selenium WebDriver
-BeautifulSoup4
-Tkinter
+
+BeautifulSoup4/
+
+Tkinter/
+/
 CSV
 
 **Getting Started**
