@@ -16,10 +16,10 @@ Python
 
 Selenium WebDriver
 
-BeautifulSoup4/
+BeautifulSoup4
 
-Tkinter/
-/
+Tkinter
+
 CSV
 
 **Getting Started**
