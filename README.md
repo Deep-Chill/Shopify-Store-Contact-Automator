@@ -24,7 +24,7 @@ Ensure you have Python and pip installed on your machine.
 
 Clone the repository:
 
-git clone https://github.com/<your-github-username>/shopify-contact-form-automator.git
+git clone https://github.com/deep-chill/shopify-contact-form-automator.git
 
 Install the required Python packages:
 pip install -r requirements.txt
