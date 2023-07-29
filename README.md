@@ -42,7 +42,7 @@ python script1.py
 
 ## Features
 # Automated Shopify Store Information Extraction
-The script navigates to a list of Shopify stores using this website to find all stores hosted by Shopify: https://myip.ms). It extracts the URLs of the Shopify stores and writes them to a CSV file.
+The script navigates to a list of Shopify stores using this website to find all stores hosted by Shopify: [https://myip.ms](https://myip.ms/browse/sites/1/ownerID/376714/ownerIDii/)). It extracts the URLs of the Shopify stores and writes them to a CSV file.
 
 # Contact Form Detection
 The second script navigates to each Shopify store, locates the contact page, and fills out the contact form with predefined data.
